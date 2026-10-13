@@ -15,10 +15,6 @@ The course curriculum can change. Follow the current freeCodeCamp instructions f
 
 From the repository root, run tests for an individual project, for example:
 
-```bash
-python3 -m unittest discover -s projects/01-user-configuration-manager -p 'test_*.py'
-```
-
 Repeat with the desired project directory. The starter test files are placeholders; add tests as you implement each project. The course's own tests remain the source of truth for passing its requirements.
 
 Course: [Python Certification](https://www.freecodecamp.org/learn/python-v9/)
